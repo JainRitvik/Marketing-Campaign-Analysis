@@ -1,5 +1,3 @@
-# Marketing-Campaign-Analysis
-
 # Marketing Campaign Analysis
 
 ## Business Problem
